@@ -16,8 +16,6 @@
                line-seq
                (mapv parse-line)))
 
-
-
 ;(def file* (->> (str/split-lines file)
 ;                (mapv parse-line)))
 
